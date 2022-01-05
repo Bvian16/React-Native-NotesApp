@@ -1,0 +1,44 @@
+{
+    "currentUser":{
+        "userId": "",
+        "password":""
+    },
+    "users":[
+        {
+            "userId": "",
+            "password":""
+        },
+        {
+            "userId": "",
+            "password":""
+        }
+    ],
+    "notes":
+       { 
+           "userId1":[
+            {
+                "noteId": "",
+                "noteTitle":"",
+                "noteContent":""
+            },
+            {
+                "noteId": "",
+                "noteTitle":"",
+                "noteContent":""
+            }
+        ],
+        "userId2":[
+            {
+                "noteId": "",
+                "noteTitle":"",
+                "noteContent":""
+            },
+            {
+                "noteId": "",
+                "noteTitle":"",
+                "noteContent":""
+            }
+        ]
+       }
+
+}
